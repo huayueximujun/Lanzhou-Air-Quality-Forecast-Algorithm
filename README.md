@@ -13,6 +13,7 @@
 5. git怎么用，学习简单的。
 6. 使用scihub可以下载文献
 7. https://www.sciencedirect.com/science/article/abs/pii/S0045653517303612
+8. 有没有可能工作日什么的特性影响了
 
 ### 拟采取的研究方法
 
